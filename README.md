@@ -1,7 +1,7 @@
 # hello-world
 Saying hello to the world.
-#Heading
-##Subheading
+# Heading
+## Subheading
 ```
 Code
 ```
